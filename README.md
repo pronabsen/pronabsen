@@ -1,6 +1,7 @@
 # Hi I'm Pronab Sen Gupta 👋
 
-Welcome to my profile! Currently i'm working at [Evaly.com.bd](https://evaly.com.bd) as a Lead Software Engineer. Thanks for visiting and I'd love to connect!
+Welcome to my profile! Currently i'm working at [nextzen.com.bd](https://nextzen.com.bd/) as a Software Engineer (Android). Thanks for visiting and I'd love to connect!
+
 <!--Website -->
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/opisengupta)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/opisengupta)
