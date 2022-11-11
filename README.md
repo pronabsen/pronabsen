@@ -17,7 +17,6 @@
 
 <hr />
   <br/>
-<img align="right" alt="GIF" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/gif.gif?raw=true" width="390" height="270" />
 <br />
 
 ## About Me:
