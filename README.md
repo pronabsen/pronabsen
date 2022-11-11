@@ -76,3 +76,5 @@ React        45 mins         ▓░░░░░░░░░░░░░░░░
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronabsen&layout=compact&theme=tokyonight" alt="Pronab's top language stats" />
 </p>
 
+[![Pronab's github activity graph](https://activity-graph.herokuapp.com/graph?username=pronabsen&theme=xcode)](https://github.com/pronabsen)
+
