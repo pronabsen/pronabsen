@@ -54,7 +54,7 @@ These are the tools and languages that I have worked with and have experience ab
 
 
 **Support Me 🌈** <br/>
-- [![buymeacoffee.com/pronabsen](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pronabsen)
+ [![buymeacoffee.com/pronabsen](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pronabsen)
 
 📊 **This Week I Spent My Time On:** ⏰🕜
 <!--START_SECTION:waka-->
