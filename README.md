@@ -76,6 +76,6 @@ React        45 mins         ▓░░░░░░░░░░░░░░░░
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=pronabsen&count_private=true&include_all_commits=true&theme=tokyonight" alt="Pronab's stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronabsen&layout=compact&theme=tokyonight" alt="Pronab's top language stats" />
 </p>
-[![Pronab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pronabsen&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/pronabsen/github-readme-activity-graph)
+[![Pronab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pronabsen&area=true&hide_border=true&theme=github)]
 
 
