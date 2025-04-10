@@ -22,7 +22,7 @@
 
 ## About Me:
 
-Hello! My name is Pronab Sen Gupta and I enjoy creating things that live on the internet. My interest in Mobile App Development started back in 2018.
+Hello! My name is Pronab Sen Gupta and I enjoy creating things that live on the internet. My interest in Mobile App Development started back in 2017.
 I’m Currently working as an Android Developer and Back-End Developer at Nextzen Limited. I’m a software engineer specializing in building 
 (and occasionally designing) exceptional digital experiences.
 
@@ -59,11 +59,11 @@ These are the tools and languages that I have worked with and have experience ab
 📊 **This Week I Spent My Time On:** ⏰🕜
 <!--START_SECTION:waka-->
 ```text
-Dart         13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
-SQLLite      5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-Java.        4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
-PHP.         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-React        45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+React         13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
+SQLLite       5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
+Dart          4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
+PHP.          1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Java          45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 <!--END_SECTION:waka-->
 <!--ending-->
