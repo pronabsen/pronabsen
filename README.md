@@ -69,6 +69,10 @@ Java          45 mins         ▓░░░░░░░░░░░░░░░�
 <!--ending-->
 
 <hr />
+## Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronabsen&theme=dark"/>
+</p>
 
 ## Github Stats:
 
@@ -78,12 +82,6 @@ Java          45 mins         ▓░░░░░░░░░░░░░░░�
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronabsen&layout=compact&theme=tokyonight" alt="Pronab's top language stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pronabsen&bg_color=000000&color=0f7cf0&line=0b71d0&point=ffffff&area=true&hide_border=true" alt="Pronab's top language stats" />
 </p>
-
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronabsen&theme=dark"/>
-</p>
-
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
