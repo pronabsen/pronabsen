@@ -41,6 +41,7 @@ These are the tools and languages that I have worked with and have experience ab
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
