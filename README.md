@@ -22,9 +22,18 @@
 
 ## About Me:
 
-Hello! My name is Pronab Sen Gupta and I enjoy creating things that live on the internet. My interest in Mobile App Development started back in 2017.
-I’m Currently working as an Android Developer and Back-End Developer at Nextzen Limited. I’m a software engineer specializing in building 
-(and occasionally designing) exceptional digital experiences.
+Hello, I’m Pronab Sen Gupta — a passionate DevOps Engineer at @nextzenit and the Founder of @SportsApi360 . I love building, scaling, 
+and optimizing systems that power modern applications, with a special interest in bridging the gap between development and operations.
+
+I’m constantly learning and experimenting with new technologies to stay ahead in this fast-moving industry. My development stack spans 
+across multiple ecosystems, including React, Next.js, TypeScript, Go, PHP, Kotlin, Dart, Java, Flutter, Android, Python, and Laravel.
+
+Whether it’s deploying robust infrastructure, architecting scalable APIs, or crafting smooth user experiences, I aim to deliver 
+efficient, maintainable, and high-performing solutions.
+
+Outside of work, I channel my love for technology and sports into SportsAPI360, a platform dedicated to providing reliable sports data solutions.
+
+🚀 Always exploring. Always building. Always improving.
 
 ## Tools / Languages:
 
