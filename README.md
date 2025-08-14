@@ -2,10 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=pronabsen&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
 <br>
-<a href="https://twitter.com/impronabsen">
+<a href="https://twitter.com/pronabsen">
   <img align="left" alt="Pronab Sen Gupta's Twitter | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xxl.png" />
 </a>
-<a href="https://www.linkedin.com/in/impronabsen">
+<a href="https://www.linkedin.com/in/pronabsen">
   <img align="left" alt="Pronab Sen Gupta's Linkedin" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />
 </a>
 <a href="https://dsc.gg/impronabsen">
