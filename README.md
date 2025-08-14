@@ -22,18 +22,15 @@
 
 ## About Me:
 
-Hello, I’m Pronab Sen Gupta — a passionate DevOps Engineer at @nextzenit and the Founder of @SportsApi360 . I love building, scaling, 
-and optimizing systems that power modern applications, with a special interest in bridging the gap between development and operations.
+Helloo, I’m Pronab Sen Gupta — a passionate DevOps Engineer at Nextzen Limited and the Founder of SportsAPI360. I love building, scaling, and optimizing systems that power modern applications, with a special interest in bridging the gap between development and operations.
 
-I’m constantly learning and experimenting with new technologies to stay ahead in this fast-moving industry. My development stack spans 
-across multiple ecosystems, including React, Next.js, TypeScript, Go, PHP, Kotlin, Dart, Java, Flutter, Android, Python, and Laravel.
+I’m constantly learning and experimenting with new technologies to stay ahead in this fast-moving industry. My development stack spans across multiple ecosystems, including React, Next.js, TypeScript, Go, PHP, Kotlin, Dart, Java, Flutter, Android, Python, and Laravel.
 
-Whether it’s deploying robust infrastructure, architecting scalable APIs, or crafting smooth user experiences, I aim to deliver 
-efficient, maintainable, and high-performing solutions.
+Whether it’s deploying robust infrastructure, architecting scalable APIs, or crafting smooth user experiences, I aim to deliver efficient, maintainable, and high-performing solutions.
 
 Outside of work, I channel my love for technology and sports into SportsAPI360, a platform dedicated to providing reliable sports data solutions.
 
-🚀 Always exploring. Always building. Always improving.
+🚀 Always exploring. Always building. Always improving
 
 ## Tools / Languages:
 
